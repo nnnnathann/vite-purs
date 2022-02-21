@@ -9,3 +9,5 @@
 /.psa*
 /.spago
 /output_esm/
+/dist/
+/.swc/

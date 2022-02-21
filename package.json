@@ -6,6 +6,7 @@
     "build:purs": "run-s build:spago build:esm",
     "build:spago": "spago build",
     "build:esm": "node scripts/build_esm.js",
+    "build:vite": "vite build",
     "watch": "run-p watch:*",
     "watch:vite": "vite",
     "watch:spago": "spago build --watch",
